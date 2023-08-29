@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mi Proyecto Final</string>
+    <string name="name">Name</string>
+    <string name="name2">Name2</string>
+    <string name="comparar">Comparar</string>
+    <string name="ingrese_el_texto_2">Ingrese el texto 2</string>
+    <string name="ingrese_el_texto_1">Ingrese el texto 1</string>
+    <string name="Comparar">Comparar</string>
+</resources>
